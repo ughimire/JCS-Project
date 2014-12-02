@@ -1,0 +1,1 @@
+<img src="image.php?filetype=PNG&dpi=72&scale=1&rotation=0&font_family=0&font_size=0&text=umesh&checksum=&code=BCGcode39" style="position:absolute;top:345px; left:100px;" id="image"/>
